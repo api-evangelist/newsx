@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/
 common:
+  - type: DomainSecurity
+    url: security/newsx-domain-security.yml
   - type: Website
     url: https://rapidapi.com/machaao-inc-machaao-inc-default/api/newsx/
   - type: PublicAPIsListing
